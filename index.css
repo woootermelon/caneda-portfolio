@@ -1,0 +1,80 @@
+/*.container {
+	display: grid !important;  
+   grid-template-columns: 100px 100px 100px !important;  
+   grid-template-rows: 50px 50px !important; 
+}*/
+
+/*.container {  
+    display: grid;  
+    grid-template-columns: 1fr 1fr 1fr;  
+    grid-template-rows: 50px 50px;  
+}*/
+
+
+
+
+a:hover {
+	background-color: lightcoral;
+	transform: scale(1.3);
+
+}
+
+#name {
+	padding-left: 5% !important ;
+}
+#title {
+	font-size: 70px !important;
+	color: #ffcc00 !important;
+	text-align: left !important;
+	font-family: 'Anton';
+	max-width: 80% !important;
+}
+button:hover {
+	transform: scale(1.2);
+
+}
+#know {
+	font-family: 'Anton' !important;
+}
+
+#tool {
+	font-family: 'Anton' !important;
+}
+
+#portfolio {
+	font-family: 'Anton';
+}
+
+.card:hover {
+	transform: scale(1.3);
+}
+#img1 {
+	
+	width: 120%;
+}
+
+#img2 {
+	width: 800px !important;
+	padding-right: 50px;
+	padding-left: 0px;
+}
+
+#body {
+	padding-top: 25px !important;
+
+}
+
+#toggle {
+	color: red;
+}
+
+
+#intro {
+	max-width: auto;
+	text-align: justify;
+	padding-top: 130px;
+	padding-right: 60px;
+/*	padding-left: 100px;*/
+	text-align: justify;
+}
+
